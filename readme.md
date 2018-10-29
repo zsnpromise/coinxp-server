@@ -80,7 +80,9 @@ module.exports.getUserOrders = getUserOrders;
 
 module.exports.genKeys = genKeys;
 ```
-API REF(https://coinxp.github.io/cxpapi/index.html)   
+API REF
+----
+[详细接口说明](https://coinxp.github.io/cxpapi/index.html)   
 
 GITHUB
 ----
