@@ -20,10 +20,6 @@
   ],
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/EOSIO/eosjs/issues"
-  },
-  "homepage": "https://www.coinxp.io",
   "devDependencies": {},
   "dependencies": {
     "bluebird": "^3.5.3",
