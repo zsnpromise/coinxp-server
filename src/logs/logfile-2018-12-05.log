@@ -1,0 +1,636 @@
+[2018-12-05T00:03:12.319] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T00:03:12.470] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T00:03:12.509] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T00:03:12.552] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T00:03:12.736] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T00:03:12.766] [INFO] cheese - 测试日子
+[2018-12-05T00:03:29.153] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T00:03:29.521] [INFO] cheese - 测试日子
+[2018-12-05T00:03:41.414] [INFO] cheese - 测试日子
+[2018-12-05T00:09:48.264] [INFO] cheese - 测试日子
+[2018-12-05T01:03:15.398] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T01:03:15.435] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T01:03:15.689] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T01:03:15.692] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T01:03:15.693] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T01:03:15.956] [INFO] cheese - 测试日子
+[2018-12-05T01:03:36.049] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T01:03:36.274] [INFO] cheese - 测试日子
+[2018-12-05T01:03:48.281] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T01:03:48.538] [INFO] cheese - 测试日子
+[2018-12-05T01:10:01.154] [INFO] cheese - 测试日子
+[2018-12-05T02:03:27.889] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T02:03:28.445] [INFO] cheese - 测试日子
+[2018-12-05T02:03:32.392] [INFO] cheese - 测试日子
+[2018-12-05T02:03:35.976] [INFO] cheese - 测试日子
+[2018-12-05T02:03:40.663] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T02:03:40.666] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T02:03:40.737] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T02:03:40.928] [INFO] cheese - 测试日子
+[2018-12-05T02:03:55.032] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T02:03:55.297] [INFO] cheese - 测试日子
+[2018-12-05T02:04:11.864] [INFO] cheese - 测试日子
+[2018-12-05T02:10:14.009] [INFO] cheese - 测试日子
+[2018-12-05T03:03:39.636] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T03:03:39.638] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T03:03:39.725] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T03:03:39.884] [INFO] cheese - 测试日子
+[2018-12-05T03:03:44.515] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T03:03:44.818] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T03:03:44.870] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T03:03:44.897] [INFO] cheese - 测试日子
+[2018-12-05T03:04:02.011] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T03:04:02.252] [INFO] cheese - 测试日子
+[2018-12-05T03:04:19.465] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T03:04:19.614] [INFO] cheese - 测试日子
+[2018-12-05T03:10:26.374] [INFO] cheese - 测试日子
+[2018-12-05T04:03:47.013] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T04:03:47.031] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T04:03:47.034] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T04:03:47.070] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T04:03:47.405] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T04:03:47.407] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T04:03:47.427] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T04:03:47.534] [INFO] cheese - 测试日子
+[2018-12-05T04:04:08.897] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T04:04:09.225] [INFO] cheese - 测试日子
+[2018-12-05T04:04:26.299] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T04:04:26.704] [INFO] cheese - 测试日子
+[2018-12-05T04:04:28.614] [INFO] cheese - 测试日子
+[2018-12-05T04:10:38.755] [INFO] cheese - 测试日子
+[2018-12-05T05:03:49.537] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T05:03:49.586] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T05:03:49.681] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T05:03:49.682] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T05:03:49.683] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T05:03:49.930] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T05:03:49.975] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T05:03:50.004] [INFO] cheese - 测试日子
+[2018-12-05T05:05:02.738] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T05:05:02.752] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T05:05:02.955] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T05:05:03.074] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T05:05:03.268] [INFO] cheese - 测试日子
+[2018-12-05T05:05:05.724] [INFO] cheese - 测试日子
+[2018-12-05T05:10:54.262] [INFO] cheese - 测试日子
+[2018-12-05T06:03:52.091] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T06:03:52.153] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T06:03:52.202] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T06:03:52.287] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T06:03:52.332] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T06:03:52.356] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T06:03:52.512] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T06:03:52.577] [INFO] cheese - 测试日子
+[2018-12-05T06:05:05.948] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T06:05:06.012] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T06:05:06.166] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T06:05:06.205] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T06:05:06.482] [INFO] cheese - 测试日子
+[2018-12-05T06:05:07.472] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T06:05:07.785] [INFO] cheese - 测试日子
+[2018-12-05T06:11:07.133] [INFO] cheese - 测试日子
+[2018-12-05T07:03:54.689] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T07:03:54.733] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:03:54.757] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:03:54.763] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:03:54.837] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:03:54.965] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:03:54.968] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:03:55.073] [INFO] cheese - 测试日子
+[2018-12-05T07:05:09.794] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T07:05:09.849] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:05:09.956] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:05:09.958] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:05:10.016] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:05:10.040] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:05:10.117] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T07:05:10.201] [INFO] cheese - 测试日子
+[2018-12-05T07:11:20.032] [INFO] cheese - 测试日子
+[2018-12-05T08:03:57.093] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T08:03:57.259] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:03:57.265] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:03:57.303] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:03:57.305] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:03:57.333] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:03:57.429] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:03:57.480] [INFO] cheese - 测试日子
+[2018-12-05T08:05:12.205] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T08:05:12.320] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:05:12.347] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:05:12.513] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:05:12.514] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:05:12.535] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:05:12.562] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T08:05:12.638] [INFO] cheese - 测试日子
+[2018-12-05T08:05:30.069] [INFO] cheese - 测试日子
+[2018-12-05T08:11:34.218] [INFO] cheese - 测试日子
+[2018-12-05T09:04:20.291] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T09:04:20.393] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T09:04:20.405] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T09:04:20.431] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T09:04:20.520] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T09:04:20.545] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T09:04:20.606] [INFO] cheese - 测试日子
+[2018-12-05T09:04:24.660] [INFO] cheese - 测试日子
+[2018-12-05T09:05:14.645] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T09:05:14.684] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T09:05:14.830] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T09:05:14.850] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T09:05:14.973] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T09:05:15.007] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T09:05:15.078] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T09:05:15.119] [INFO] cheese - 测试日子
+[2018-12-05T09:05:37.270] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T09:05:37.524] [INFO] cheese - 测试日子
+[2018-12-05T09:11:47.125] [INFO] cheese - 测试日子
+[2018-12-05T10:04:22.885] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T10:04:22.902] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T10:04:23.071] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T10:04:23.075] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T10:04:23.083] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T10:04:23.312] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T10:04:23.384] [INFO] cheese - 测试日子
+[2018-12-05T10:04:36.903] [INFO] cheese - 测试日子
+[2018-12-05T10:05:17.126] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T10:05:17.208] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T10:05:17.216] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T10:05:17.352] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T10:05:17.358] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T10:05:17.463] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T10:05:17.492] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T10:05:17.617] [INFO] cheese - 测试日子
+[2018-12-05T10:05:43.966] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T10:05:44.254] [INFO] cheese - 测试日子
+[2018-12-05T10:05:56.321] [INFO] cheese - 测试日子
+[2018-12-05T10:11:59.904] [INFO] cheese - 测试日子
+[2018-12-05T11:04:25.531] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T11:04:25.566] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T11:04:25.569] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T11:04:25.743] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T11:04:25.834] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T11:04:25.859] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T11:04:25.915] [INFO] cheese - 测试日子
+[2018-12-05T11:04:49.133] [INFO] cheese - 测试日子
+[2018-12-05T11:05:19.717] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T11:05:19.718] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T11:05:19.827] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T11:05:19.832] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T11:05:19.914] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T11:05:19.963] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T11:05:20.084] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T11:05:20.113] [INFO] cheese - 测试日子
+[2018-12-05T11:05:50.868] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T11:05:51.128] [INFO] cheese - 测试日子
+[2018-12-05T11:06:03.125] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T11:06:03.514] [INFO] cheese - 测试日子
+[2018-12-05T11:12:13.744] [INFO] cheese - 测试日子
+[2018-12-05T12:05:21.945] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T12:05:21.967] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T12:05:22.004] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T12:05:22.117] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T12:05:22.156] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T12:05:22.183] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T12:05:22.190] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T12:05:22.199] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T12:05:22.364] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T12:05:22.368] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T12:05:22.400] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T12:05:22.448] [INFO] cheese - 测试日子
+[2018-12-05T12:05:26.042] [INFO] cheese - 测试日子
+[2018-12-05T12:06:06.751] [INFO] cheese - 测试日子
+[2018-12-05T12:06:28.934] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T12:06:28.961] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T12:06:29.397] [INFO] cheese - 测试日子
+[2018-12-05T12:06:32.853] [INFO] cheese - 测试日子
+[2018-12-05T12:06:42.036] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T12:06:44.064] [INFO] cheese - 测试日子
+[2018-12-05T12:07:35.572] [INFO] cheese - 测试日子
+[2018-12-05T12:15:07.150] [INFO] cheese - 测试日子
+[2018-12-05T13:05:24.017] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T13:05:24.025] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:05:24.160] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:05:24.177] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:05:24.203] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:05:24.224] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:05:24.237] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:05:24.358] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:05:24.442] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:05:24.443] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:05:24.478] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:05:24.518] [INFO] cheese - 测试日子
+[2018-12-05T13:05:38.305] [INFO] cheese - 测试日子
+[2018-12-05T13:06:19.100] [INFO] cheese - 测试日子
+[2018-12-05T13:06:32.935] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T13:06:32.936] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:06:33.024] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T13:06:33.407] [INFO] cheese - 测试日子
+[2018-12-05T13:06:35.325] [INFO] cheese - 测试日子
+[2018-12-05T13:06:50.642] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T13:06:50.695] [INFO] cheese - 测试日子
+[2018-12-05T13:07:48.364] [INFO] cheese - 测试日子
+[2018-12-05T13:15:19.542] [INFO] cheese - 测试日子
+[2018-12-05T14:05:26.538] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T14:05:27.088] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:05:27.091] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:05:27.096] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:05:27.097] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:05:27.156] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:05:27.158] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:05:27.161] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:05:27.163] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:05:27.164] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:05:27.181] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:05:27.204] [INFO] cheese - 测试日子
+[2018-12-05T14:05:51.776] [INFO] cheese - 测试日子
+[2018-12-05T14:06:40.611] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T14:06:40.641] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:06:40.643] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:06:40.956] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:06:40.976] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:06:41.087] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T14:06:41.316] [INFO] cheese - 测试日子
+[2018-12-05T14:07:05.029] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T14:07:05.240] [INFO] cheese - 测试日子
+[2018-12-05T14:08:09.936] [INFO] cheese - 测试日子
+[2018-12-05T14:15:31.805] [INFO] cheese - 测试日子
+[2018-12-05T15:05:28.837] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T15:05:29.140] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:05:29.209] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:05:29.212] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:05:29.228] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:05:29.239] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:05:29.312] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:05:29.327] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:05:29.329] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:05:29.344] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:05:29.350] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:05:29.371] [INFO] cheese - 测试日子
+[2018-12-05T15:06:04.391] [INFO] cheese - 测试日子
+[2018-12-05T15:06:43.580] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T15:06:43.717] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:06:43.763] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:06:43.765] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:06:43.810] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:06:43.996] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T15:06:44.040] [INFO] cheese - 测试日子
+[2018-12-05T15:07:02.812] [INFO] cheese - 测试日子
+[2018-12-05T15:07:12.069] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T15:07:12.285] [INFO] cheese - 测试日子
+[2018-12-05T15:08:22.774] [INFO] cheese - 测试日子
+[2018-12-05T15:15:45.243] [INFO] cheese - 测试日子
+[2018-12-05T16:03:41.536] [INFO] cheese - 测试日子
+[2018-12-05T16:05:39.531] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T16:05:39.610] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T16:05:39.650] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T16:05:40.225] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T16:05:41.734] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T16:05:42.008] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T16:05:44.521] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T16:05:44.730] [INFO] cheese - 测试日子
+[2018-12-05T16:05:49.070] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T16:05:49.183] [INFO] cheese - 测试日子
+[2018-12-05T16:05:53.534] [INFO] cheese - 测试日子
+[2018-12-05T16:05:57.029] [INFO] cheese - 测试日子
+[2018-12-05T16:06:21.025] [INFO] cheese - 测试日子
+[2018-12-05T16:06:46.740] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T16:06:46.748] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T16:06:46.750] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T16:06:46.889] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T16:06:46.940] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T16:06:47.077] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T16:06:47.228] [INFO] cheese - 测试日子
+[2018-12-05T16:07:10.843] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T16:07:11.364] [INFO] cheese - 测试日子
+[2018-12-05T16:07:19.007] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T16:07:19.304] [INFO] cheese - 测试日子
+[2018-12-05T16:08:35.518] [INFO] cheese - 测试日子
+[2018-12-05T16:15:58.308] [INFO] cheese - 测试日子
+[2018-12-05T17:03:12.663] [INFO] cheese - 测试日子
+[2018-12-05T17:06:33.098] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T17:06:33.721] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:06:36.007] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:06:36.943] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:06:39.295] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:06:39.680] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:06:40.352] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:06:50.719] [INFO] cheese - 测试日子
+[2018-12-05T17:06:56.300] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T17:06:56.475] [INFO] cheese - 测试日子
+[2018-12-05T17:07:08.305] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T17:07:08.307] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:07:08.408] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:07:08.591] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:07:10.325] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:07:17.432] [INFO] cheese - 测试日子
+[2018-12-05T17:07:43.133] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T17:07:44.706] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:07:45.480] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:08:01.063] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:08:02.061] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:08:03.955] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:08:11.860] [INFO] cheese - FetchError: request to http://testnet-bpb.coinxp.io:8888/v1/chain/get_table_rows failed, reason: read ECONNRESET
+[2018-12-05T17:08:14.782] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:08:14.948] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T17:09:12.568] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T17:09:21.403] [INFO] cheese - 测试日子
+[2018-12-05T17:10:13.417] [INFO] cheese - 测试日子
+[2018-12-05T17:18:10.158] [INFO] cheese - 测试日子
+[2018-12-05T18:02:11.918] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T18:02:12.174] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:02:12.332] [INFO] cheese - 测试日子
+[2018-12-05T18:03:25.423] [INFO] cheese - 测试日子
+[2018-12-05T18:06:42.652] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T18:06:42.748] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:06:42.878] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:06:42.968] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:06:42.983] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:06:42.987] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:06:43.111] [INFO] cheese - 测试日子
+[2018-12-05T18:07:01.058] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T18:07:01.433] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:07:01.481] [INFO] cheese - 测试日子
+[2018-12-05T18:07:13.224] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T18:07:13.230] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:07:13.448] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:07:13.689] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:07:13.731] [INFO] cheese - 测试日子
+[2018-12-05T18:07:34.825] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T18:07:34.916] [INFO] cheese - 测试日子
+[2018-12-05T18:07:49.959] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T18:07:50.120] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:07:50.212] [INFO] cheese - 测试日子
+[2018-12-05T18:08:08.489] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T18:08:08.526] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:08:08.917] [INFO] cheese - 测试日子
+[2018-12-05T18:08:19.373] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T18:08:19.681] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T18:08:19.737] [INFO] cheese - 测试日子
+[2018-12-05T18:09:27.742] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T18:09:28.281] [INFO] cheese - 测试日子
+[2018-12-05T18:10:26.324] [INFO] cheese - 测试日子
+[2018-12-05T18:18:22.947] [INFO] cheese - 测试日子
+[2018-12-05T19:02:45.823] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T19:02:46.151] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:02:46.270] [INFO] cheese - 测试日子
+[2018-12-05T19:02:49.447] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T19:02:49.951] [INFO] cheese - 测试日子
+[2018-12-05T19:02:51.496] [INFO] cheese - 测试日子
+[2018-12-05T19:02:59.795] [INFO] cheese - 测试日子
+[2018-12-05T19:04:11.850] [INFO] cheese - 测试日子
+[2018-12-05T19:06:53.051] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T19:06:53.528] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:06:54.272] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:06:55.217] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:06:55.704] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:06:56.551] [INFO] cheese - 测试日子
+[2018-12-05T19:07:15.358] [INFO] cheese - 测试日子
+[2018-12-05T19:07:15.801] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T19:07:15.886] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:07:15.928] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:07:15.962] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:07:16.364] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:07:16.588] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:07:16.857] [INFO] cheese - 测试日子
+[2018-12-05T19:07:20.803] [INFO] cheese - 测试日子
+[2018-12-05T19:07:47.432] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T19:07:48.263] [INFO] cheese - 测试日子
+[2018-12-05T19:08:18.129] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T19:08:18.253] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:08:18.635] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:08:18.718] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:08:19.020] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:08:19.230] [INFO] cheese - 测试日子
+[2018-12-05T19:08:34.860] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T19:08:35.214] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T19:08:35.513] [INFO] cheese - 测试日子
+[2018-12-05T19:08:56.751] [INFO] cheese - 测试日子
+[2018-12-05T19:09:36.295] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T19:09:36.442] [INFO] cheese - 测试日子
+[2018-12-05T19:10:44.914] [INFO] cheese - 测试日子
+[2018-12-05T19:18:36.366] [INFO] cheese - 测试日子
+[2018-12-05T20:03:22.254] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T20:03:22.476] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:03:22.743] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:03:22.811] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:03:22.873] [INFO] cheese - 测试日子
+[2018-12-05T20:03:29.301] [INFO] cheese - 测试日子
+[2018-12-05T20:03:37.520] [INFO] cheese - 测试日子
+[2018-12-05T20:04:05.143] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T20:04:12.845] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:04:19.220] [INFO] cheese - FetchError: request to http://testnet-bpb.coinxp.io:8888/v1/chain/get_table_rows failed, reason: connect ETIMEDOUT 18.219.29.137:8888
+[2018-12-05T20:05:54.177] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T20:05:57.028] [INFO] cheese - FetchError: request to http://testnet-bpb.coinxp.io:8888/v1/chain/get_table_rows failed, reason: connect ETIMEDOUT 18.219.29.137:8888
+[2018-12-05T20:05:58.913] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:07:42.896] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T20:07:42.968] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:07:43.054] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:07:43.110] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:07:43.187] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:07:43.190] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:07:43.364] [INFO] cheese - 测试日子
+[2018-12-05T20:07:44.433] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T20:07:44.905] [INFO] cheese - 测试日子
+[2018-12-05T20:08:50.452] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T20:08:50.529] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:08:50.549] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:08:50.771] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:08:50.894] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:08:50.979] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:08:51.014] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:08:51.106] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:08:53.491] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:08:55.959] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:08:57.234] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:08:57.456] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:09:11.453] [INFO] cheese - FetchError: request to http://testnet-bpb.coinxp.io:8888/v1/chain/get_table_rows failed, reason: connect ETIMEDOUT 18.216.32.54:8888
+[2018-12-05T20:11:02.735] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T20:11:02.934] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:11:03.177] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:11:03.178] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:11:03.308] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:11:03.341] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T20:11:03.415] [INFO] cheese - 测试日子
+[2018-12-05T20:11:50.895] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T20:11:53.740] [INFO] cheese - 测试日子
+[2018-12-05T20:18:59.475] [INFO] cheese - 测试日子
+[2018-12-05T21:02:51.524] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T21:02:51.628] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:02:51.736] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:02:51.837] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:02:51.946] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:02:52.203] [INFO] cheese - 测试日子
+[2018-12-05T21:03:25.928] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T21:03:25.929] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:03:26.094] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:03:26.355] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:03:26.442] [INFO] cheese - 测试日子
+[2018-12-05T21:03:44.122] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T21:03:44.544] [INFO] cheese - 测试日子
+[2018-12-05T21:04:26.115] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T21:04:26.279] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:04:26.548] [INFO] cheese - 测试日子
+[2018-12-05T21:06:03.837] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T21:06:03.995] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:06:04.225] [INFO] cheese - 测试日子
+[2018-12-05T21:07:47.068] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T21:07:47.175] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:07:47.247] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:07:47.345] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:07:47.348] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:07:47.350] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:07:47.550] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:07:47.565] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:07:47.605] [INFO] cheese - 测试日子
+[2018-12-05T21:08:53.151] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T21:08:53.351] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:08:53.421] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:08:53.561] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:08:53.595] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:08:53.599] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:08:53.622] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:08:53.685] [INFO] cheese - 测试日子
+[2018-12-05T21:09:02.146] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T21:09:02.252] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:09:02.392] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:09:02.618] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:09:02.669] [INFO] cheese - 测试日子
+[2018-12-05T21:09:24.158] [INFO] cheese - 测试日子
+[2018-12-05T21:11:05.752] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T21:11:05.800] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:11:05.838] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:11:05.866] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:11:05.942] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:11:06.015] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T21:11:06.271] [INFO] cheese - 测试日子
+[2018-12-05T21:12:00.344] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T21:12:00.636] [INFO] cheese - 测试日子
+[2018-12-05T21:19:16.781] [INFO] cheese - 测试日子
+[2018-12-05T22:02:56.570] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:02:56.835] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:02:56.909] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:02:57.028] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:02:57.091] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:02:57.248] [INFO] cheese - 测试日子
+[2018-12-05T22:03:10.781] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:03:11.058] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:03:11.100] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:03:11.278] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:03:11.305] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:03:11.422] [INFO] cheese - 测试日子
+[2018-12-05T22:03:31.074] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:03:31.200] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:03:31.262] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:03:31.350] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:03:31.540] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:03:32.290] [INFO] cheese - 测试日子
+[2018-12-05T22:03:53.744] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:03:54.286] [INFO] cheese - 测试日子
+[2018-12-05T22:04:33.829] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:04:34.236] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:04:34.377] [INFO] cheese - 测试日子
+[2018-12-05T22:06:11.693] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:06:11.718] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:06:11.975] [INFO] cheese - 测试日子
+[2018-12-05T22:07:50.164] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:07:50.359] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:07:50.364] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:07:50.396] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:07:50.628] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:07:50.707] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:07:50.764] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:07:50.838] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:07:50.933] [INFO] cheese - 测试日子
+[2018-12-05T22:08:57.127] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:08:57.740] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:08:57.745] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:08:57.776] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:08:57.929] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:08:57.972] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:08:57.989] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:08:58.014] [INFO] cheese - 测试日子
+[2018-12-05T22:09:07.688] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:09:07.767] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:09:08.117] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:09:08.209] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:09:08.350] [INFO] cheese - 测试日子
+[2018-12-05T22:09:35.733] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:09:35.835] [INFO] cheese - 测试日子
+[2018-12-05T22:11:09.226] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:11:09.275] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:11:09.333] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:11:09.435] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:11:09.641] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:11:09.906] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T22:11:09.932] [INFO] cheese - 测试日子
+[2018-12-05T22:12:11.012] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T22:12:11.591] [INFO] cheese - 测试日子
+[2018-12-05T22:19:29.398] [INFO] cheese - 测试日子
+[2018-12-05T23:03:25.908] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:03:26.103] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:03:26.119] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:03:26.225] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:03:26.242] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:03:26.267] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:03:26.355] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:03:26.372] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:03:26.389] [INFO] cheese - 测试日子
+[2018-12-05T23:03:27.933] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:03:27.992] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:03:28.238] [INFO] cheese - 测试日子
+[2018-12-05T23:03:29.177] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:03:29.513] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:03:29.661] [INFO] cheese - 测试日子
+[2018-12-05T23:03:52.349] [INFO] cheese - FetchError: request to http://testnet-bpb.coinxp.io:8888/v1/chain/get_table_rows failed, reason: connect ETIMEDOUT 18.219.29.137:8888
+[2018-12-05T23:04:29.368] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:04:30.173] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:04:30.791] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:04:31.297] [INFO] cheese - 测试日子
+[2018-12-05T23:04:33.114] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:04:33.526] [INFO] cheese - 测试日子
+[2018-12-05T23:04:57.972] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:04:58.786] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:05:00.837] [INFO] cheese - 测试日子
+[2018-12-05T23:05:10.847] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:05:11.274] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:05:11.442] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:05:25.862] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:05:27.762] [INFO] cheese - FetchError: request to http://testnet-bpb.coinxp.io:8888/v1/chain/get_table_rows failed, reason: connect ETIMEDOUT 18.219.29.137:8888
+[2018-12-05T23:05:36.015] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:06:46.690] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:06:47.070] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:06:47.109] [INFO] cheese - 测试日子
+[2018-12-05T23:07:52.842] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:07:52.846] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:07:52.848] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:07:52.897] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:07:53.049] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:07:53.137] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:07:53.138] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:07:53.187] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:07:53.317] [INFO] cheese - 测试日子
+[2018-12-05T23:09:00.156] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:09:00.247] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:09:00.517] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:09:00.539] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:09:00.895] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:09:03.647] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:09:05.032] [INFO] cheese - 测试日子
+[2018-12-05T23:10:02.937] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:10:03.121] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:10:03.297] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:10:03.465] [INFO] cheese - 测试日子
+[2018-12-05T23:10:06.747] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:10:06.886] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:10:06.950] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:10:08.004] [INFO] cheese - 测试日子
+[2018-12-05T23:10:53.622] [INFO] cheese - FetchError: request to http://testnet-bpb.coinxp.io:8888/v1/chain/get_table_rows failed, reason: connect ETIMEDOUT 18.219.29.137:8888
+[2018-12-05T23:11:12.265] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:11:12.273] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:11:12.460] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:11:12.468] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:11:12.469] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:11:12.655] [INFO] cheese - Cannot read property 'commodity' of undefined
+[2018-12-05T23:11:22.184] [INFO] cheese - 测试日子
+[2018-12-05T23:12:18.118] [INFO] cheese - Cannot read property 'currency' of undefined
+[2018-12-05T23:12:18.595] [INFO] cheese - 测试日子
+[2018-12-05T23:19:46.326] [INFO] cheese - 测试日子

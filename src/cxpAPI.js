@@ -310,12 +310,12 @@ const queryLastPrice = async (cointype, host = null ) => {
         const res = await eos.getTableRows({ "scope": standCointype, "code": "cxp.lp", "table": "price", "json": true })
 
         const data = res.rows;
-        console.debug('queryLastPrice....', data);
+        // console.debug('queryLastPrice....', data);
         if (data.length > 0) {
             let lastPrice = data[0];
             lastPrice.amount = lastPrice.amount / 100000000;
             lastPrice.price = lastPrice.price;  //update 9.10 
-            console.debug('res', lastPrice);
+            // console.debug('res', lastPrice);
             return lastPrice;
             // do return data
         } else {
@@ -785,6 +785,91 @@ const getOrderbooksell = async (contractName, host = null) => {
     }
 
 }
+ 
+
+/**
+ * @function getCoins 获取支持的币种
+ * @param {string} callback  回调函数
+ * @param {string} host CXP链地址
+ * @returns {object} { rows:       
+    [   { "supply": "0.00000000 AE"
+        },{
+        "supply": "0.00000000 BNB"
+        },{
+        "supply": "0.00000000 BTC"
+        }, {...} ], more: false }
+ * @example
+ * ret =  await  api_cxp.getCoins( log, host='http://testnet-bpb.coinxp.io:8888' )
+ */
+//cleos7 get table coinxp.bank coinxp.bank stat
+const getCoins = async (  callback, host = null) => {
+    let config = getConfig(host)
+    const eos = Eos(config);
+
+ 
+    let Tradepairs = {   }
+
+    try {
+ 
+        const res = await eos.getTableRows({
+            "scope": "coinxp.bank", "code": "coinxp.bank", "table": "stat",
+            "json": true, "limit": 500
+        });
+
+        Coins = res 
+        if (Coins.length > 0) {
+            //let btcBalance = data[i]
+        }
+        callback('', Coins)
+        return Coins;
+    } catch (e) {
+        callback(e, '')
+        //throw new Error(e);
+    }
+}
+
+/**
+ * @function getTradepair 获取支持的交易对
+ * @param {string} callback  回调函数
+ * @param {string} host CXP链地址
+ * @returns {object} { rows:       
+    [{  "currency": "BTC",
+      "commodity": "AE",
+      "timestamp": "1539081909584290818"
+    },{
+      "currency": "ETH",
+      "commodity": "AE",
+      "timestamp": "1539081912074136061"
+    }, {...} ], more: false }
+ * @example
+ * ret =  await  api_cxp.getTradepair( host='http://testnet-bpb.coinxp.io:8888' )
+ */
+const getTradepair = async ( callback, host = null) => {
+    let config = getConfig(host)
+    const eos = Eos(config);
+
+ 
+    let Tradepairs = {   }
+
+    try {
+ 
+        const res = await eos.getTableRows({
+            "scope": "coin", "code": "cxp.match", "table": "coin",
+            "json": true, "limit": 500
+        });
+
+        Tradepairs = res 
+        if (Tradepairs.length > 0) {
+            //let btcBalance = data[i]
+        }
+        callback('', Tradepairs)
+        return Tradepairs;
+    } catch (e) {
+        callback(e, '')
+        //throw new Error(e);
+    }
+    
+}
 
 
 /**
@@ -823,8 +908,6 @@ const genKeys = async ( ) => {
 const getUserOrders = async (name, callback, host = null) => {
 
     let config = getConfig(host)
- 
-
     const eos = Eos(config);
 
     //cleos get table cxp.odb wm ord8erdb
@@ -847,8 +930,8 @@ const getUserOrders = async (name, callback, host = null) => {
         callback(e, '')
         //throw new Error(e);
     }
-
 }
+
 
 /**
  * @function getDeposits 获取用户的充币记录
@@ -1197,6 +1280,8 @@ module.exports.getUserOrders = getUserOrders;
 module.exports.queryBlanceExchange = queryBlanceExchange;
 module.exports.getDeposits = getDeposits;
 module.exports.getWithdraws = getWithdraws;
+module.exports.getCoins = getCoins;
+module.exports.getTradepair = getTradepair;
 
 module.exports.bank2change = bank2change;
 module.exports.change2bank = change2bank;
