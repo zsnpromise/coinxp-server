@@ -1,0 +1,11 @@
+{
+  "name": "cxp_api",
+  "script": "/src/index.js",
+  "instances": "1",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "env_development" : {
+    "NODE_ENV": "production"
+  }
+}
